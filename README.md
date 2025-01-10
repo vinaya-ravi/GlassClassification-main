@@ -1,4 +1,4 @@
-# GlassClassification
+# GlassifyAI
 Analaysis of Different Glass Types and its Classification
 
 ##### Web Application Link Details
